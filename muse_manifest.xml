@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyan.com" resolutions="1x" timestamp="1500460157124">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="huyan.com" resolutions="1x" timestamp="1500461471210">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="377595255" ref="index"/>
+    <file name="index.css" crc="536382981" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -55,5 +55,5 @@
     <file name="u1121-4.png" crc="62824932" ref="index"/>
     <file name="u1124-8.png" crc="81900273" ref="index"/>
   </folder>
-  <file name="index.html" crc="38881483" seo="true" mt="1500460037667" redirect="true"/>
+  <file name="index.html" crc="4158201661" seo="true" mt="1500461408378" redirect="true"/>
 </manifest>
